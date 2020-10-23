@@ -4,4 +4,5 @@ function sayhello(){
 }
 function someone(x){
  who = x;
+ alert('Hello,' + who + '!');
 }
